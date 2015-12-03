@@ -1,0 +1,8 @@
+Package: net.mtvg.BacklightSwitch
+Name: BacklightSwitch
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.a3tweaks.flipswitch (>= 1.0.3)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: BacklightSwitch adds a FlipSwitch toggles to turn on or off the screen backlight.
+Author: Mat V <mat@mtvg.net>
+Section: Addons (FlipSwitch)
